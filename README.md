@@ -1,2 +1,0 @@
-# NSNETWORK
-a user website
